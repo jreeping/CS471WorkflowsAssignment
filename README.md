@@ -121,4 +121,7 @@ Complete task `#6` according to its specifications.
 ## Step 12
 Add step 12
 
+## Step 13
+Add step 13
+
 Answer the corresponding questions in the [Blackboard](https://blackboard.boisestate.edu/) assignment.
