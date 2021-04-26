@@ -118,4 +118,13 @@ Answer the corresponding questions in the [Blackboard](https://blackboard.boises
 ## Step 11
 Complete task `#6` according to its specifications.
 
+## Step 12
+Add step 12
+
+## Step 13
+Add step 13
+
+## Step 14
+Add step 14
+
 Answer the corresponding questions in the [Blackboard](https://blackboard.boisestate.edu/) assignment.
